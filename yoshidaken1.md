@@ -1,4 +1,7 @@
 # Yoshida
 --
 ## Kenichi
-吉田
+
+
+日本語
+English
